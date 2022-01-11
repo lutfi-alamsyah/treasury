@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/home/lutfi/Downloads/sqljdbc_9.2\\enu/mssql-jdbc-9.2.1.jre11.jar",
+    "/home/lutfi/Downloads/sqljdbc_9.2/mssql-jdbc-9.2.1.jre11.jar",
+    "d:\\Lutfi project\\java\\sqljdbc_9.2\\mssql-jdbc-9.2.1.jre11.jar",
+    "/home/lutfi/Downloads/sqljdbc_9.4\\enu/mssql-jdbc-9.4.1.jre11.jar"
+  ],
+  "java.project.sourcePaths": ["src/project"],
+  "java.completion.enabled": false,
+  "java.debug.settings.enableRunDebugCodeLens": false,
+  "java.test.editor.enableShortcuts": false
+}
