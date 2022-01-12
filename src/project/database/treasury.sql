@@ -111,8 +111,8 @@ INSERT INTO person (
     [catatan]
 ) VALUES 
     ( 'Lutfi', 'alamat', '1234567890', '' ),
-    ( 'Iqbal', 'alamat', '1234567890', ''),
-    ( 'Azka', 'alamat', '1234567890', '' )
+    ( 'Mahfudz', 'alamat', '1234567890', ''),
+    ( 'Azwar', 'alamat', '1234567890', '' )
 GO
 
 INSERT INTO debt (
