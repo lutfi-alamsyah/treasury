@@ -110,7 +110,8 @@ INSERT INTO person (
     [phone_number],
     [catatan]
 ) VALUES 
-    ( 'Lutfi', 'alamat', '1234567890', '' ),
+    ( 'Lutfi', 'KP. pancoran mas kota depok', '1234567890', '' ),
+    ( 'Alamsyah', 'KP. pancoran mas kota depok', '1234567890', '' ),
     ( 'Mahfudz', 'alamat', '1234567890', ''),
     ( 'Azwar', 'alamat', '1234567890', '' )
 GO
