@@ -1,5 +1,5 @@
-package service;
-// package project.service;
+// package service;
+package project.service;
 
 // for netbeans ^
 

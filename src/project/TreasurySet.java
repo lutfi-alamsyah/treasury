@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-// package project;
+package project;
 
 import java.sql.ResultSet;
 
@@ -11,8 +11,8 @@ import javax.swing.JLabel;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
-// import project.service.TreasurySetService;
-import service.TreasurySetService;
+import project.service.TreasurySetService;
+// import service.TreasurySetService;
 
 /**
  *

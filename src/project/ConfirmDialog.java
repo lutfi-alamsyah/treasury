@@ -1,13 +1,13 @@
-// package project;
+package project;
 
-// import project.service.DebtService;
-// import project.service.PersonService;
-// import project.service.TreasurySetService;
-// import project.service.ManagementService;
-import service.DebtService;
-import service.PersonService;
-import service.ManagementService;
-import service.TreasurySetService;
+import project.service.DebtService;
+import project.service.PersonService;
+import project.service.TreasurySetService;
+import project.service.ManagementService;
+// import service.DebtService;
+// import service.PersonService;
+// import service.ManagementService;
+// import service.TreasurySetService;
 
 import java.awt.Color;
 

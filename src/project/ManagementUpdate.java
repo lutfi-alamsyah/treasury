@@ -1,14 +1,14 @@
-// package project;
+package project;
 
-// import project.service.ManagementService;
-// import project.service.PersonService;
-// import project.service.TreasurySetService;
+import project.service.ManagementService;
+import project.service.PersonService;
+import project.service.TreasurySetService;
 
 import java.sql.ResultSet;
 
-import service.ManagementService;
-import service.PersonService;
-import service.TreasurySetService;
+// import service.ManagementService;
+// import service.PersonService;
+// import service.TreasurySetService;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-// package project;
+package project;
 
-// import project.service.DebtService;
-// import project.service.ManagementService;
-import service.DebtService;
-import service.ManagementService;
+import project.service.DebtService;
+import project.service.ManagementService;
+// import service.DebtService;
+// import service.ManagementService;
 
 /**
  *

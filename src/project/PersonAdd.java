@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-// package project;
+package project;
 
-// import project.service.PersonService;
-import service.PersonService;
+import project.service.PersonService;
+// import service.PersonService;
 
 /**
  *

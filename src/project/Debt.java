@@ -1,7 +1,7 @@
-// package project;
+package project;
 
-// import project.service.DebtService;
-import service.DebtService;
+import project.service.DebtService;
+// import service.DebtService;
 
 import java.sql.*;
 import javax.swing.JLabel;

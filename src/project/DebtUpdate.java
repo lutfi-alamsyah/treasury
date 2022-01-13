@@ -1,10 +1,10 @@
-// package project;
+package project;
 
-// import project.service.DebtService;
-// import project.service.PersonService;
+import project.service.DebtService;
+import project.service.PersonService;
 
-import service.DebtService;
-import service.PersonService;
+// import service.DebtService;
+// import service.PersonService;
 
 import java.sql.ResultSet;
 /*

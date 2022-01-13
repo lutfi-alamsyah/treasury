@@ -1,6 +1,6 @@
-// package project;
+package project;
 
-// import project.service.ManagementService;
+import project.service.ManagementService;
 
 import java.sql.ResultSet;
 import javax.swing.JLabel;
@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
-import service.ManagementService;
+// import service.ManagementService;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
