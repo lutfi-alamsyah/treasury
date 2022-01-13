@@ -112,8 +112,8 @@ INSERT INTO person (
 ) VALUES 
     ( 'Lutfi', 'KP. pancoran mas kota depok', '1234567890', '' ),
     ( 'Alamsyah', 'KP. pancoran mas kota depok', '1234567890', '' ),
-    ( 'Mahfudz', 'alamat', '1234567890', ''),
-    ( 'Azwar', 'alamat', '1234567890', '' )
+    ( 'Mahfudz', 'Jalan benda timur 11b pamulang 2', '1234567890', ''),
+    ( 'Azwar', 'Jalan benda timur 11b pamulang 2', '1234567890', '' )
 GO
 
 INSERT INTO debt (
